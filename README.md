@@ -18,5 +18,4 @@
 >> | Epoch | Result | |
 >> | ------ | -- | -- |
 >> | 1 | 90.74% | ![스크린샷 2022-06-19 오후 5 12 30](https://user-images.githubusercontent.com/18066248/174471983-c4db5459-468e-4e65-b0d6-154f9c6d7911.png)|
->> | 10 |  |
->> 
+>> | 10 | 96.77% | ![스크린샷 2022-06-19 오후 5 16 06](https://user-images.githubusercontent.com/18066248/174472112-b5bc77f4-6681-42be-baaf-1722dac3a8cd.png)|
